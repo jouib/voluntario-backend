@@ -5,7 +5,7 @@ import express from "express";
 import cors from "cors";
 
 // Importa as rotas definidas no arquivo './routes'
-import { router } from "../src/routes.js";
+import { router } from "./routes.js";
 
 import path from 'path';
 
